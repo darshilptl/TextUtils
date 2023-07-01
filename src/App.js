@@ -1,17 +1,16 @@
 // import logo from './logo.svg';
-import './App.css';
-import Navbar from './components/Navbar';
-import Textfroms from './components/Textfroms';
+import "./App.css";
+import Navbar from "./components/Navbar";
+import Textfroms from "./components/Textfroms";
+// import React, { useState } from "react";
 
-function App() {
+export default function App() {
   return (
     <>
-   <Navbar/>
-   <div className="container my-2">
-   <Textfroms heading="Congrats! Darshil This is First your React App"/>
-   </div>
+      <Navbar />
+      <div className="container my-2">
+        <Textfroms heading="Enter The Text In To Below For Text Analyze" />
+      </div>
     </>
   );
 }
-
-export default App;
