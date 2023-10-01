@@ -1,70 +1,125 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Hey, I'm Darshil Patel! 👋
 
-## Available Scripts
 
-In the project directory, you can run:
+## About Me
+I'm a Freelancer and Full stack developer...
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## 🔗 Links
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)
 
-### `npm test`
+## 🛠 Skills
+ Frontend
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+HTML, CSS , Javascript...
 
-### `npm run build`
+Frameworks
+ 
+React js , NEXT js ...
+ Backend
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Node.js , php ...
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Database
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+MongoDB , Mysql ...
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+# TextUtils React App
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+* Word Counter, Character Counter , Convert Uppercase and Lowercase , CopyText
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+* The TextUtils React App is a simple but useful tool for anyone who works with text on a regular basis. It provides a variety of text manipulation features that can help you to save time and be more productive.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## This app was created to showcase my React skills and to provide a useful tool for anyone who works with text on a regular basis.
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## Appendix
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+TextUtils React App
 
-### Code Splitting
+* This is a simple React app that provides a variety of text manipulation features, including:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+Word counter
 
-### Analyzing the Bundle Size
+Character counter
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+Convert uppercase and lowercase
 
-### Making a Progressive Web App
+Copy text
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+Text summary
 
-### Advanced Configuration
+Time to read
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+Preview
+## How To Run Website
 
-### Deployment
+- Clone the repository to your local machine.
+- install Node.js
+- Open the project folder in a code editor.
+- Run command npm run start in terminal
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+* The app will launch in development mode. You can then start entering text into the text box and using the various features to manipulate the text.
+## Run Locally
 
-### `npm run build` fails to minify
+Clone the project
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+```bash
+  git clone https://link-to-project
+```
+
+Go to the project directory
+
+```bash
+  cd TextUtils
+```
+
+Install dependencies
+
+```bash
+  Node.js
+```
+
+Start the server
+
+```bash
+  npm run start
+``` 
+* Run this command on web browser after installation of XAMPP and start server of Apache and Mysql
+
+
+## Features
+
+- Light mode and Dark mode
+
+- Live previews
+
+- Fullscreen mode
+
+- Cross platform
+
+- Word counter: The word counter counts the number of words in the text box.
+
+- Character counter: The character counter counts the number of characters in the text box.
+
+- Convert uppercase and lowercase: The convert uppercase and lowercase feature allows you to convert the text in the text box to all uppercase or all lowercase.
+
+- Copy text: The copy text feature copies the text in the text box to your clipboard.
+
+- Text summary: The text summary feature generates a summary of the text in the text box.
+
+- Time to read: The time to read feature estimates how long it will take to read the text in the text box.
+
+- Preview: The preview feature shows you how the text in the text box will look when it is converted to HTML.
+
+
+## Limitation
+
+* The website is still under development, and there may be some bugs or limitations.
+## Feedback
+
+* If you have any feedback on the website, please feel free to contact me.  Email- darshilptl03@gmail.com
+
