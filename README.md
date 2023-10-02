@@ -35,6 +35,10 @@ MongoDB , Mysql ...
 
 ## This app was created to showcase my React skills and to provide a useful tool for anyone who works with text on a regular basis.
 
+## [Website URL] 🔗
+
+https://darshilptl.github.io/TextUtils/
+
 ## Screenshots
 ![TextUtils Light Mode](https://github.com/darshilptl/TextUtils/assets/105098994/1e839f03-8865-4678-8c8c-72bf856d3600)
 ![TextUtils Dark Mode](https://github.com/darshilptl/TextUtils/assets/105098994/06b0c1ff-6ed0-4592-9e51-c9b07cf7572d)
